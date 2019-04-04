@@ -1,2 +1,1 @@
-# smart-subsidy-sytem
-bringing transparency in subsidy based governance using Blockchain and IoT
+This is the readme file for the Business Network Definition created in Playground
